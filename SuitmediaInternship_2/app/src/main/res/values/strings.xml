@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuitmediaInternship</string>
+    <string name="event_name">Name</string>
+    <string name="event_date">Date</string>
+    <string name="guest_name">Name</string>
+    <string name="instruction_login">Sertakan gambar profil Anda untuk melengkapi profil</string>
+    <string name="next">Next</string>
+    <string name="name">Name</string>
+    <string name="event">Pilih Event</string>
+    <string name="guest">Pilih Guest</string>
+    <string name="message">MESSAGE FROM CODI</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="done">SELESAI</string>
+    <string name="description">Event Description</string>
+</resources>
